@@ -303,4 +303,11 @@ td, th{
     .formulario{
         margin: 5%;
     }
+    .formulario textarea{
+        width: 302px; height: 112px;
+    }
+
+    table{
+        margin-left: 75px;
+    }
 }
