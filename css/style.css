@@ -43,7 +43,7 @@ nav{
 /*------------  CSS RODAPÉ  ------------*/
 footer{
     text-align: center;
-    background: url("/imagens/bg.jpg");
+    background-color: #000000;
     padding: 40px 0;
 }
 
